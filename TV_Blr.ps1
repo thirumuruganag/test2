@@ -1,6 +1,7 @@
 ﻿# Run as Administrator
 
 # Variables
+New-Item -ItemType Directory -Path "C:\TV" -Force
 $tvFolder = "C:\TV"
 $tvHostUrl = "https://download.teamviewer.com/download/TeamViewer_Host_Setup.exe"
 $tvInstaller = "$tvFolder\TeamViewer_Host_Setup.exe"
