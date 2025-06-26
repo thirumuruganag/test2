@@ -1,5 +1,5 @@
 ﻿# === CONFIGURATION ===
-$userProfileName = "thirumurugan.s"
+$userProfileName = "vijay.kumar"
 $baseProfilePath = "C:\Users\$userProfileName"
 $exportRoot = "C:\BrowserHistoryExport"
 $subFolder = "$exportRoot\HistoryFiles"
