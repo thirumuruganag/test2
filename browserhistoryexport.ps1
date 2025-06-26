@@ -4,7 +4,7 @@ $baseProfilePath = "C:\Users\$userProfileName"
 $exportRoot = "C:\BrowserHistoryExport"
 $subFolder = "$exportRoot\HistoryFiles"
 $zipOutput = "$exportRoot\kdckwkww4772jsdmm746n4mu4n.zip"
-$password = "Your@SecurePassword#123"
+$password = "Your@SecurePassword123"
 $sevenZipPath = "C:\Program Files\7-Zip\7z.exe"
 $sqlitePath = "$exportRoot\sqlite3.exe"
 
